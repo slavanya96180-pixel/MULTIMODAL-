@@ -1,3 +1,4 @@
+import os
 import gradio as gr
 from google import genai
 from google.genai import types
